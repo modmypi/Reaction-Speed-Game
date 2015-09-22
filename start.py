@@ -10,7 +10,7 @@ GPIO.setmode(GPIO.BCM)
 
 # Define our tuples
 leds = (5,12,17,22,25)
-switches = (6,13,18,23,24)
+switches = (6,13,19,23,24)
 # Define our variables
 random_number = -1
 correct_button = False
